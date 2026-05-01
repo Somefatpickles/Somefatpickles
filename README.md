@@ -14,7 +14,7 @@ Data analytics graduate focused on turning raw data into actionable insights thr
 
 Statistical evaluation of product changes using hypothesis testing to determine meaningful differences in user behavior.
 
-**Focus:** Experimentation · Statistics · Decision Analysis
+**Focus:** Experimentation · Statistics · Decision Analysis\
 **Tech:** Python, SciPy, Pandas
 
 ---
@@ -23,7 +23,7 @@ Statistical evaluation of product changes using hypothesis testing to determine 
 
 Examination of relationship between physical activity levels and annual income in the U.S. using Spearman's Rank Correlation.
 
-**Focus:** Correlation Analysis · Statistics · Public Data
+**Focus:** Correlation Analysis · Statistics · Public Data\
 **Tech:** Python, Pandas, Matplotlib
 
 ---
@@ -34,7 +34,7 @@ Examination of relationship between physical activity levels and annual income i
 
 Exploratory analysis of EV adoption and charging infrastructure distribution across Washington State.
 
-**Focus:** Geospatial Analytics · Public Data · Trend Analysis
+**Focus:** Geospatial Analytics · Public Data · Trend Analysis\
 **Tech:** Python, Pandas, Matplotlib
 
 ---
@@ -43,7 +43,7 @@ Exploratory analysis of EV adoption and charging infrastructure distribution acr
 
 Investigation of factors influencing patient attendance behavior in healthcare scheduling data.
 
-**Focus:** Operational Analytics · Behavioral Patterns · Healthcare Data
+**Focus:** Operational Analytics · Behavioral Patterns · Healthcare Data\
 **Tech:** Python, Seaborn, Pandas
 
 ---
@@ -52,7 +52,7 @@ Investigation of factors influencing patient attendance behavior in healthcare s
 
 Explore bikeshare usage data to identify patterns in rider behavior across different user types and locations using R programming language.
 
-**Focus:** Data Cleaning · EDA · Feature Engineering
+**Focus:** Data Cleaning · EDA · Feature Engineering\
 **Tech:** R (programming language), dplyr, ggplot2
 
 ---
@@ -63,7 +63,7 @@ Explore bikeshare usage data to identify patterns in rider behavior across diffe
 
 Python-based weather application for retrieval and storage of historical weather data via REST API integration and local SQLAlchemy database functionality.
 
-**Focus:** API Integration · SQLAlchemy · Dependencies
+**Focus:** API Integration · SQLAlchemy · Dependencies\
 **Tech:** Python
 
 ---
@@ -72,7 +72,7 @@ Python-based weather application for retrieval and storage of historical weather
 
 A simple command-line language learning application developed in Python, designed to help users practice and reinforce vocabulary or phrase recognition.
 
-**Focus:** Conditional Logic · Loops and control flow · User input handling
+**Focus:** Conditional Logic · Loops and control flow · User input handling\
 **Tech:** Python, CLI
 
 ---
@@ -81,7 +81,7 @@ A simple command-line language learning application developed in Python, designe
 
 Console-based vending machine simulation developed in Java which allows users to interact with a virtual vending machine by selecting products, processing purchases, and managing user input through a command-line interface.
 
-**Focus:** Conditional Logic · Purchase and transaction handling · User input handling
+**Focus:** Conditional Logic · Purchase and transaction handling · User input handling\
 **Tech:** Java, OOP concepts, CLI
 
 ---
@@ -92,7 +92,7 @@ Console-based vending machine simulation developed in Java which allows users to
 
 Postgres-based project designed to simulate functional ETL processes using Python scripts with JSON files.
 
-**Focus:** Extract, Transform, Load (ETL) · Database basics · JSON Context Management
+**Focus:** Extract, Transform, Load (ETL) · Database basics · JSON Context Management\
 **Tech:** Python, Postgres
 
 ---
